@@ -27,6 +27,17 @@ The analysis also shows that attendance rate is a significant factor in predicti
 ## Predictions
 Based on the predictions made by the model, it can be inferred that a student who attended most of their lectures is likely to have a higher GPA than a student who did not attend as many lectures, even if they scored higher on the SAT.
 
+## Key Insights
+
+1. The simple linear regression model shows that there is a positive correlation between a student's SAT score and their GPA, which is consistent with previous research in the field.
+
+2. Attendance rate is also a significant factor in predicting a student's GPA, indicating that students who attend more lectures are likely to perform better academically.
+
+3. he predictions made by the model suggest that attendance rate is a more important factor than SAT score in determining a student's GPA. This highlights the importance of attending lectures regularly, even if a student has a high SAT score.
+
+4. The model's limitations should also be considered. For example, the dataset used in this project is relatively small and may not be representative of the entire student population. Additionally, the model only considers two variables (SAT score and attendance rate) and does not take into account other factors that may influence a student's academic performance.
+
+
 ## Credits
 This project was created by Aleksandar Dimitrov. 
 If you have any questions or comments, feel free to contact me at alexi.zein@gmail.com.
