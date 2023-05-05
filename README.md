@@ -33,7 +33,7 @@ Based on the predictions made by the model, it can be inferred that a student wh
 
 2. Attendance rate is also a significant factor in predicting a student's GPA, indicating that students who attend more lectures are likely to perform better academically.
 
-3. he predictions made by the model suggest that attendance rate is a more important factor than SAT score in determining a student's GPA. This highlights the importance of attending lectures regularly, even if a student has a high SAT score.
+3. The predictions made by the model suggest that attendance rate is a more important factor than SAT score in determining a student's GPA. This highlights the importance of attending lectures regularly, even if a student has a high SAT score.
 
 4. The model's limitations should also be considered. For example, the dataset used in this project is relatively small and may not be representative of the entire student population. Additionally, the model only considers two variables (SAT score and attendance rate) and does not take into account other factors that may influence a student's academic performance.
 
